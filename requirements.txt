@@ -4,4 +4,4 @@ matplotlib
 openpyxl
 openai
 python-dotenv
-pytest
+tabular
