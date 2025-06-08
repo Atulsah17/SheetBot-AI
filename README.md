@@ -83,7 +83,7 @@ Excel-assistant/
 
 ## Screenshots
 
-[![alt text](<Screenshot (132).png>)]
+[![alt text](<Interface.png>)]
 - Upload interface in sidebar.
 - Data summary and preview cards.
 - Query input and result with chart export.
